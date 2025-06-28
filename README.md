@@ -28,7 +28,7 @@ Identificar padrões de comportamento dos clientes, analisar os planos oferecido
 
 Você pode visualizar e executar o projeto diretamente no navegador usando o link abaixo:
 
-[Abrir no Binder](https://hub.gesis.mybinder.org/user/daniel-o-amorim-istica_megaline-fz9pm9fk/doc/tree/An%C3%A1lise_Estat%C3%ADstica_Megaline.ipynb)
+[Abrir no Binder]([https://hub.gesis.mybinder.org/user/daniel-o-amorim-istica_megaline-fz9pm9fk/doc/tree/An%C3%A1lise_Estat%C3%ADstica_Megaline.ipynb](https://hub.gesis.mybinder.org/user/daniel-o-amorim-istica_megaline-f2b4voks/doc/tree/An%C3%A1lise_Estat%C3%ADstica_Megaline.ipynb))
 
 ## Como usar
 
