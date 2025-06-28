@@ -26,11 +26,9 @@ Identificar padrões de comportamento dos clientes, analisar os planos oferecido
 
 ## Como visualizar o projeto sem instalar nada
 
-Você pode visualizar e executar o projeto diretamente no seu navegador usando o Binder:
+Você pode visualizar e executar o projeto diretamente no navegador usando o link abaixo:
 
-[Abrir no Binder](https://mybinder.org/v2/gh/daniel-o-amorim/megaline-analise-estatistica/main?filepath=Análise_Estatística_Megaline.ipynb)
-
-Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub na URL acima.
+[Abrir no Binder](https://mybinder.org/v2/gh/daniel-o-amorim/Analise_Estatistica_Megaline/main?filepath=Análise_Estatística_Megaline.ipynb)
 
 ## Como usar
 
@@ -41,6 +39,6 @@ Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub na URL acima.
 ## Autor
 
 Daniel Amorim  
-Análise de Dados | Marketing e Publicidade  
-Especialista em Branding  
-[Linkedin: www.linkedin.com/in/danieloamorim](https://www.linkedin.com/in/danieloamorim)
+Análise de Dados
+Marketing | Publicidade e RP
+Especialista em Branding
